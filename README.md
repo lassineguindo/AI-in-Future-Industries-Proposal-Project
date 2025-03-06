@@ -28,4 +28,4 @@ This project emphasizes the necessity of **AI literacy** in education and how it
 - Exploring real-world case studies of AI integration in universities  
 
 ## Acknowledgments  
-Special thanks to **Dr. Stone** for reviewing our proposal and to my team members for their contributions.  
+Special thanks to my team members for their contributions.  
