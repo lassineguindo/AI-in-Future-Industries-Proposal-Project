@@ -23,7 +23,7 @@ Purpose & Objective – Explanation of the need for AI courses and their benefit
 Why This Matters
 This project emphasizes the necessity of AI literacy in education and how it can enhance student skills, improve learning experiences, and increase career opportunities. As AI adoption grows, institutions must adapt to keep students competitive in the workforce.
 
-Future Enhancements
+Future Enhancements:
 Expanding research on AI ethics and policy
 Conducting surveys or interviews with students and educators
 Exploring real-world case studies of AI integration in universities
